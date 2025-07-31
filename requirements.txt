@@ -1,0 +1,9 @@
+transformers
+torch
+textblob
+keybert
+scikit-learn
+sentence-transformers
+spacy
+pandas
+streamlit
